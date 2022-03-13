@@ -8,3 +8,7 @@ app.listen(3000, function(){
 app.get("/",function(request,response){
     response.send("alo!");
 });
+
+app.get("/about",function(request,response){
+    response.send("contact me. my phone is 1234-5678");
+});
