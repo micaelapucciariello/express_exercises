@@ -1,0 +1,22 @@
+{
+  "name": "express_exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micaelapucciariello/express_exercise.git"
+  },
+  "author": "Micaela Pucciariello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micaelapucciariello/express_exercise/issues"
+  },
+  "homepage": "https://github.com/micaelapucciariello/express_exercise#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
