@@ -1,0 +1,22 @@
+{
+  "name": "weather_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "weather_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micaelapucciariello/express_exercises.git"
+  },
+  "author": "Micaela Pucciariello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micaelapucciariello/express_exercises/issues"
+  },
+  "homepage": "https://github.com/micaelapucciariello/express_exercises#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
